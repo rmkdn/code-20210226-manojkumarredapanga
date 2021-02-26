@@ -1,4 +1,6 @@
 # code-20210226-manojkumarredapanga
+Install the libraries
+Run the app in python3
 
 Here is the link format to post the data
 
